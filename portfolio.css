@@ -1,0 +1,36 @@
+
+
+body {
+    background-color: #C7C7BB;
+    text-align: center;
+}
+
+h1 {
+    font-size: 600%;
+    text-align: center;
+    font-family: Avanta Garde; 
+    margin-bottom: -20px;
+}
+
+h2 {
+    font-size: 180%;
+    color: black;
+    font-family: Century Gothic;
+}
+
+
+ul{
+    list-style:none;
+    background-color: #7F867B;
+    padding: 5px;
+    color: black;
+    font-size: 120%;
+    font-family: Century Gothic;
+}
+
+p{ 
+    margin: 0px 120px;
+    font-family: Century Gothic;
+    text-align: justify;
+}
+
